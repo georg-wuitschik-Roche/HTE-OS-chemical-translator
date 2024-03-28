@@ -1,0 +1,8 @@
+fastapi==0.75.2
+uvicorn==0.17.6
+email-validator==1.2.0
+IsoSpecPy
+numpy
+Pillow
+matplotlib
+rdkit-pypi==2022.3.2
